@@ -6,7 +6,7 @@ const projects = [
     title: "Weather App",
     description:
       "A clean Weather App 🌦️ using React that provides real-time weather updates for any city.",
-    image: "/public/projects/project1.png.png",
+    image: "/projects/project1.png.png",
     tags: ["React", "OpenWeatherAPI", "CSS", "Vercel"],
     link: "https://react-weather-app-blush-pi.vercel.app/",
     github: "https://github.com/Nav2004-raj/React-Weather-App",
@@ -15,7 +15,7 @@ const projects = [
     title: "Memory Card Game",
     description:
       "A fun and fully responsive memory card game built with React. Flip cards, match fruit emoji pairs, track your moves and score — and challenge yourself to win with as few moves as possible!",
-    image: "/public/projects/project2.png.png",
+    image: "/projects/project2.png.png",
     tags: ["React", "CSS", "Vercel"],
     link: "https://memory-card-game-eight-liart.vercel.app/",
     github: "https://github.com/Nav2004-raj/Memory-Card-Game",
@@ -24,7 +24,7 @@ const projects = [
     title: "Music Player App",
     description:
       "A fully responsive Music Player web application built with React, React Router, and CSS — featuring playlist management with persistent local storage.",
-    image: "/public/projects/project3.png.png",
+    image: "/projects/project3.png.png",
     tags: ["React", "React-Router", "CSS", "localStorage API", "Vercel"],
     link: "https://music-player-kappa-navy.vercel.app/",
     github: "https://github.com/Nav2004-raj/Music-Player",
@@ -33,7 +33,7 @@ const projects = [
     title: "Pokedex App",
     description:
       "A responsive Pokedex web application built with React, allowing users to search, browse, and explore detailed information about Pokémon using the PokeAPI.",
-    image: "/public/projects/project4.png",
+    image: "/projects/project4.png",
     tags: ["React", "PokeAPI", "CSS", "Vercel"],
     link: "https://react-pokedex-app-two.vercel.app/",
     github: "https://github.com/Nav2004-raj/React-Pokedex-App",
