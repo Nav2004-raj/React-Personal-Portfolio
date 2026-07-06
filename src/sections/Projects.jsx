@@ -3,13 +3,13 @@ import AnimatedBorderButton from "@/components/AnimatedBorderButton";
 
 const projects = [
   {
-    title: "Weather App",
+    title: "Crypto App",
     description:
-      "A clean Weather App 🌦️ using React that provides real-time weather updates for any city.",
-    image: "/projects/project1.png.png",
-    tags: ["React", "OpenWeatherAPI", "CSS", "Vercel"],
-    link: "https://react-weather-app-blush-pi.vercel.app/",
-    github: "https://github.com/Nav2004-raj/React-Weather-App",
+      "A fun and fully responsive crypto currency website built with React.",
+    image: "/projects/project5.png",
+    tags: ["React", "CSS", "Vercel"],
+    link: "https://crypto-app-mu-gold.vercel.app/",
+    github: "https://github.com/Nav2004-raj/Crypto-App",
   },
   {
     title: "Memory Card Game",
@@ -37,6 +37,15 @@ const projects = [
     tags: ["React", "PokeAPI", "CSS", "Vercel"],
     link: "https://react-pokedex-app-two.vercel.app/",
     github: "https://github.com/Nav2004-raj/React-Pokedex-App",
+  },
+  {
+    title: "Weather App",
+    description:
+      "A clean Weather App 🌦️ using React that provides real-time weather updates for any city.",
+    image: "/projects/project1.png.png",
+    tags: ["React", "OpenWeatherAPI", "CSS", "Vercel"],
+    link: "https://react-weather-app-blush-pi.vercel.app/",
+    github: "https://github.com/Nav2004-raj/React-Weather-App",
   },
 ];
 
