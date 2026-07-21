@@ -3,6 +3,23 @@ import AnimatedBorderButton from "@/components/AnimatedBorderButton";
 
 const projects = [
   {
+    title: "Klimate",
+    description:
+      "A responsive weather dashboard built with React, TypeScript, and Tailwind CSS — get live weather, search any city worldwide, and track your favorites in one clean interface.",
+    image: "/projects/project1.png",
+    tags: [
+      "React",
+      "OpenWeatherAPI",
+      "TypeScript",
+      "Tailwind CSS",
+      "ShadCN UI",
+      "Tanstack Query",
+      "Vercel",
+    ],
+    link: "https://klimate-green.vercel.app/",
+    github: "https://github.com/Nav2004-raj/Klimate",
+  },
+  {
     title: "Crypto App",
     description:
       "A fun and fully responsive crypto currency website built with React.",
@@ -37,15 +54,6 @@ const projects = [
     tags: ["React", "PokeAPI", "CSS", "Vercel"],
     link: "https://react-pokedex-app-two.vercel.app/",
     github: "https://github.com/Nav2004-raj/React-Pokedex-App",
-  },
-  {
-    title: "Weather App",
-    description:
-      "A clean Weather App 🌦️ using React that provides real-time weather updates for any city.",
-    image: "/projects/project1.png.png",
-    tags: ["React", "OpenWeatherAPI", "CSS", "Vercel"],
-    link: "https://react-weather-app-blush-pi.vercel.app/",
-    github: "https://github.com/Nav2004-raj/React-Weather-App",
   },
 ];
 
